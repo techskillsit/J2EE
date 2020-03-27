@@ -6,9 +6,9 @@ Step 1: Download Java SE 8 [Skip this if you have it already]
 
 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-Step 2: Download Eclipse IDE
+Step 2: Download Spring Tool Suite for Eclipse 
 
-https://www.eclipse.org/downloads/
+https://spring.io/tools#suite-three
 
 
 Step 3: Download Tomcat Web Server 
